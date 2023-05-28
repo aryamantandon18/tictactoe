@@ -40,7 +40,7 @@ nav ul{
     background-color: rgb(189, 139, 236);
 }
 .dance{
-    width: 0px;
+    visibility: hidden;
      transition: width 2s ease-in-out; 
 }
 .br0{
